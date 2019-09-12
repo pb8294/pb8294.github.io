@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "deeplearning.ai"
+  organization_url = "https://www.deeplearning.ai"
+  title = "Neural Networks and Deep Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/3MPX68UEQPTL"
+  date_start = "2019-09-12"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Ncell Pvt. Ltd."
   organization_url = ""
   title = "Ncell Scholarship & Excellence Award"

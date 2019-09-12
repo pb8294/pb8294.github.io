@@ -68,5 +68,5 @@ user_groups:
 - Visitors
 ---
 
-I am a second year PhD student in Computing and Information Sciences at Golisano College of Computing and Information Sciences, Rochester Institute of Technology. I am a Graduate Research Assistant under the supervision of Prof. Linwei Wang. My research interest are in Bayesian active learning and its use for uncertainty quantification in multiscale multiphysics models.
+I am a second year PhD student in Computing and Information Sciences at Golisano College of Computing and Information Sciences, Rochester Institute of Technology. I am a Graduate Research Assistant under the supervision of <a href="https://pht180.rit.edu/cblwang/">Prof. Linwei Wang</a>. My research interest are in Bayesian active learning and its use for uncertainty quantification in multiscale multiphysics models.
 
