@@ -32,7 +32,7 @@ education:
     institution: Rochester Institute of Technology
     year: 
   - course: BE in Electronics and Communications Engineering
-    institution: Pulchowk Campus, Intitute of Technology, Nepal
+    institution: Pulchowk Campus, Intitute of Engineering, Nepal
     year: 2015
 
 # Social/Academic Networking
