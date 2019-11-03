@@ -27,7 +27,7 @@ abstract = "Indoor localization and mapping is an important problem with many ap
 abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "indoor.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
+image = "indoor.png"
+caption = "Top view of Odometry Output for a floorplan"
 
 +++
