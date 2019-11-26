@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Pulchowk Campus, Institute of Engineering, Tribhuvan University"
+  organization_url = "http://doece.pcampus.edu.np/"
+  title = "Prof. F.N. Trofimenkoff Academic Achievement Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-11-01"
+  date_end = ""
+  description = "Award provided for graduating top of the class (2015) in BE Electronics and Communications Engineering"
+
+[[item]]
   organization = "deeplearning.ai"
   organization_url = "https://www.deeplearning.ai"
   title = "Neural Networks and Deep Learning"
@@ -37,17 +47,7 @@ date_format = "Jan 2006"
   date_start = "2018-08-18"
   date_end = ""
   description = "Financial assistance for Ph.D. studies at Rochester Institute of Technology since August 2018"
-
-[[item]]
-  organization = "Pulchowk Campus, Institute of Engineering, Tribhuvan University"
-  organization_url = "http://doece.pcampus.edu.np/"
-  title = "Prof. F.N. Trofimenkoff Academic Achievement Award"
-  url = ""
-  certificate_url = ""
-  date_start = "2016-01-01"
-  date_end = ""
-  description = "Award provided for graduating top of the class (2015) in BE Electronics and Communications Engineering"
-
+  
 [[item]]
   organization = "Ncell Pvt. Ltd."
   organization_url = ""
