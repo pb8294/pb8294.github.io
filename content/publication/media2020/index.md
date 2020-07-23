@@ -5,7 +5,7 @@ title = "Embedding High-dimensional Bayesian Optimization via Generative Modelin
 date = "2020-02-27"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jwala Dhamala", "Pradeep Bajracharya", "Hermenegild J Arevalo", "B Milan Horácek", "Katherine C Wu", "Natalia A Trayanova", "Linwei Wang"]
+authors = ["Jwala Dhamala", "<b>Pradeep Bajracharya</b>", "Hermenegild J Arevalo", "B Milan Horácek", "Katherine C Wu", "Natalia A Trayanova", "Linwei Wang"]
 
 # Publication type.
 # Legend:

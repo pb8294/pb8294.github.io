@@ -5,7 +5,7 @@ title = "Indoor Odometry and Point Cloud Mapping"
 date = "2017-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Prabhat Sanu Ligal", "Bikram Acharya", "Pradeep Bajracharya", "Prasun Shrestha", "Pratik Pokharel", "Sharad Kumar Ghimire"]
+authors = ["Prabhat Sanu Ligal", "Bikram Acharya", "<b>Pradeep Bajracharya</b>", "Prasun Shrestha", "Pratik Pokharel", "Sharad Kumar Ghimire"]
 
 # Publication type.
 # Legend:
