@@ -19,7 +19,7 @@ authors = ["Prashnna K. Gyawali", "Sandesh Ghimire", "<b>Pradeep Bajracharya</b>
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Medical Image Analysis*. "
+publication = "In *Medical Image Computing and Computer Assisted Intervention*. "
 
 # Abstract and optional shortened version.
 abstract = "Computer-aided diagnosis via deep learning relies on large-scale annotated data sets, which can be costly when involving expert knowledge. Semi-supervised learning (SSL) mitigates this challenge by leveraging unlabeled data. One effective SSL approach is to regularize the local smoothness of neural functions via perturbations around single data points. In this work, we argue that regularizing the global smoothness of neural functions by filling the void in between data points can further improve SSL. We present a novel SSL approach that trains the neural network on linear mixing of labeled and unlabeled data, at both the input and latent space in order to regularize different portions of the network. We evaluated the presented model on two distinct medical image data sets for semi-supervised classification of thoracic disease and skin lesion, demonstrating its improved performance over SSL with local perturbations and SSL with global mixing but at the input space only."
