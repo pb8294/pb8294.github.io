@@ -18,7 +18,7 @@ organizations:
   url: "https://www.rit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Bayesian Active Learning, Uncertainty Quantification, Deep Learning, and Machine Learning
+bio: My research interests include Deep Active Learning, Bayesian Active Learning, Uncertainty Quantification, Deep Learning, and Machine Learning
 
 interests:
 - Bayesian Active Learning
