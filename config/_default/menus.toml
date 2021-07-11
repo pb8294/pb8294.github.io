@@ -24,6 +24,11 @@
   weight = 40
 
 [[main]]
+  name = "Certifiation"
+  url = "#certification"
+  weight = 40
+
+[[main]]
   name = "Blog"
   url = "#posts"
   weight = 50

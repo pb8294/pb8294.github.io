@@ -60,6 +60,6 @@ date_format = "Jan 2006"
   location = "Lokanthali"
   date_start = "2014-05-01"
   date_end = "2014-12-01"
-  description = """Took on project named High Speed Data Transfer to make the existing data transfer faster."""
+  description = """Took on research project named High Speed Data Transfer to make the existing data transfer faster."""
 
 +++
