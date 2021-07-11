@@ -38,16 +38,6 @@ date_format = "Jan 2006"
   description = "Award provided for graduating top of the class (2015) in BE Electronics and Communications Engineering"
 
 [[item]]
-  organization = "deeplearning.ai"
-  organization_url = "https://www.deeplearning.ai"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/3MPX68UEQPTL"
-  date_start = "2019-09-12"
-  date_end = ""
-  description = ""
-
-[[item]]
   organization = "Rochester Institute of Technology"
   organization_url = "https://www.rit.edu/"
   title = "RIT Ph.D. Merit Scholarship"
