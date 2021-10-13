@@ -19,15 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Udacity with Amazon AWS"
-  title = "AWS Machine Learning Scholarship"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-07-01"
-  date_end = ""
-  description = "Scholarship for AWS MLE Foundations course Nanodegree Program by Udacity and Amazon AWS"
-
-[[item]]
   organization = "Pulchowk Campus, Institute of Engineering, Tribhuvan University"
   organization_url = "http://doece.pcampus.edu.np/"
   title = "Prof. F.N. Trofimenkoff Academic Achievement Award"

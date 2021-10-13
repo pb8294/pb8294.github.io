@@ -21,6 +21,7 @@ organizations:
 bio: My research interests include Deep Active Learning, Bayesian Active Learning, Uncertainty Quantification, Deep Learning, and Machine Learning
 
 interests:
+- Deep Active Learning
 - Bayesian Active Learning
 - Uncertainty Quantification
 - Deep Learning
