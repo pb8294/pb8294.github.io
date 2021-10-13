@@ -16,18 +16,35 @@ authors = ["Md Shakil Zamen", "Jwala Dhamala", "<b>Pradeep Bajracharya</b>", "Jo
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Medical Image Computing and Computer Assisted Intervention*. "
 
 # Abstract and optional shortened version.
-abstract = "Computer-aided diagnosis via deep learning relies on large-scale annotated data sets, which can be costly when involving expert knowledge. Semi-supervised learning (SSL) mitigates this challenge by leveraging unlabeled data. One effective SSL approach is to regularize the local smoothness of neural functions via perturbations around single data points. In this work, we argue that regularizing the global smoothness of neural functions by filling the void in between data points can further improve SSL. We present a novel SSL approach that trains the neural network on linear mixing of labeled and unlabeled data, at both the input and latent space in order to regularize different portions of the network. We evaluated the presented model on two distinct medical image data sets for semi-supervised classification of thoracic disease and skin lesion, demonstrating its improved performance over SSL with local perturbations and SSL with global mixing but at the input space only."
+abstract = "Probabilistic estimation of cardiac electrophysiological model parameters serves an important step
+towards model personalization and uncertain quantification. The expensive computation associated
+with these model simulations, however, makes direct Markov Chain Monte Carlo (MCMC) sampling
+of the posterior probability density function (pdf) of model parameters computationally intensive.
+Approximated posterior pdfs resulting from replacing the simulation model with a computationally
+efficient surrogate, on the other hand, have seen limited accuracy. In this paper, we present a Bayesian
+active learning method to directly approximate the posterior pdf function of cardiac model parameters,
+in which we intelligently select training points to query the simulation model in order to learn the
+posterior pdf using a small number of samples. We integrate a generative model into Bayesian
+active learning to allow approximating posterior pdf of high-dimensional model parameters at the
+resolution of the cardiac mesh. We further introduce new acquisition functions to focus the selection
+of training points on better approximating the shape rather than the modes of the posterior pdf
+of interest. We evaluated the presented method in estimating tissue excitability in a 3D cardiac
+electrophysiological model in a range of synthetic and real-data experiments. We demonstrated its
+improved accuracy in approximating the posterior pdf compared to Bayesian active learning using
+regular acquisition functions, and substantially reduced computational cost in comparison to existing
+standard or accelerated MCMC sampling."
 
-abstract_short = "Computer-aided diagnosis via deep learning relies on large-scale annotated data sets, which can be costly when involving expert knowledge."
+abstract_short = "Probabilistic estimation of cardiac electrophysiological model parameters serves an important step
+towards model personalization and uncertain quantification."
 
 # Featured image thumbnail (optional)
-image_preview = "miccai2020.png"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -39,9 +56,9 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2005.11217"
+url_pdf = ""
 url_preprint = ""
-url_code = "https://github.com/Prasanna1991/LatentMixing"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -62,7 +79,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "miccai2020.png"
-caption = "Schematic Diagram of the presented SSL method"
+image = ""
+caption = ""
 
 +++
