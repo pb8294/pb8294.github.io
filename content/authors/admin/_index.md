@@ -1,15 +1,11 @@
 ---
 # Display name
-name: Pradeep Bajracharya
-
-# Username (this should match the folder name)
-authors:
-- admin
+title: Pradeep Bajracharya
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
+# Role/position/tagline
 role: PhD Student in Machine Learning
 
 # Organizations/Affiliations
@@ -27,6 +23,7 @@ interests:
 - Deep Learning
 - Machine Learning
 
+# Education to show in About widget
 education:
   courses:
   - course: PhD in Computing and Information Sciences
@@ -37,9 +34,9 @@ education:
     year: 2015
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -61,16 +58,16 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "pb8294@rit.edu"
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
-I am a third year PhD student in Computing and Information Sciences at Golisano College of Computing and Information Sciences, Rochester Institute of Technology. I am a Graduate Research Assistant under the supervision of [**Dr. Linwei Wang**](https://pht180.rit.edu/cblwang). 
+I am a third year PhD student in Computing and Information Sciences at Golisano College of Computing and Information Sciences, Rochester Institute of Technology. I am a Graduate Research Assistant under the supervision of [**Dr. Linwei Wang**](https://pht180.rit.edu/cblwang/linwei-wang/) in [**Computational Biomedicine Lab**](https://pht180.rit.edu/cblwang). 
 
 **Research Area**\
 My research is in Bayesian Active Learning and its use for Uncertainty Quantification in multiscale multiphysics models.
 
+<!-- **Technical Skills**\
+**Programming** -- Python, MATLAB, C++\
+**Machine Learning Tools** -- PyTorch, TensorFlow, Keras -->

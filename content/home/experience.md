@@ -1,66 +1,90 @@
-+++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+---
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: experience
 
-title = "Experience"
-subtitle = ""
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 30
+
+title: Professional Experience
+subtitle:
 
 # Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
-columns = "1"
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
 # Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Graduate Research Assistant"
-  company = "Computational Biomedicine Laboratory, RIT"
-  company_url = "https://pht180.rit.edu/cblwang/"
-  location = "Rochester, New York"
-  date_start = "2018-08-18"
-  date_end = ""
-  description = """"""
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+experience:
+  - title: Graduate Research Assistant
+    company: 'Computational Biomedicine Laboratory, RIT'
+    company_url: 'https://pht180.rit.edu/cblwang/'
+    company_logo: rit
+    location: 'Rochester, New York'
+    date_start: '2018-08-18'
+    date_end: ''
+    description: ''
 
-[[experience]]
-  title = "Senior Developer"
-  company = "Kazi Studios"
-  company_url = "http://kazistudios.com/"
-  location = "Bhanimandal, Lalitpur, Nepal"
-  date_start = "2016-08-01"
-  date_end = "2018-06-01"
-  description = """Development of Web based solutions, and CRM systems including but not limited to medical inventory system, tourism portals and android applications. Also worked on smart home system controlled via android, and IOS platform and chatbot integrated in messenger."""
+  - title: Graduate Teaching Assistant
+    company: Chester F. Carlson Center for Imaging Science, RIT
+    company_url: 'http://doece.pcampus.edu.np/'
+    company_logo: rit
+    location: 'Rochester, New York'
+    date_start: '2018-08-01'
+    date_end: '2019-05-01'
 
-[[experience]]
-  title = "Teaching Assistant"
-  company = "Pulchowk Campus"
-  company_url = "http://doece.pcampus.edu.np/"
-  location = "Pulchowk, Lalitpur, Nepal"
-  date_start = "2016-04-01"
-  date_end = "2016-08-01"
-  description = """Conducted Basic Electronics Lab sessions for first year students for a semester."""
+  - title: Senior Developer
+    company: Kazi Studios
+    company_url: 'http://kazistudios.com/'
+    company_logo: org-kazi
+    location: 'Bhanimandal, Lalitpur, Nepal'
+    date_start: '2016-08-01'
+    date_end: '2018-06-01'
+    description: 
+      Development of Web based solutions, and CRM systems including but not
+      limited to medical inventory system, tourism portals and android
+      applications. Also worked on smart home system controlled via android, and
+      IOS platform and chatbot integrated in messenger.
 
-[[experience]]
-  title = "System Engineer"
-  company = "E&T Nepal Pvt. Ltd."
-  company_url = "http://www.eandtnepal.com/"
-  location = "Lokanthali, Bhaktapur, Nepal"
-  date_start = "2015-11-01"
-  date_end = "2016-04-01"
-  description = """Development of Calculation Solver for CFD simulation with CUDA on NVIDIA GPUs for simulation software "MUJO"."""
+  - title: Teaching Assistant
+    company: Pulchowk Campus, Tribhuvan University
+    company_url: 'http://doece.pcampus.edu.np/'
+    company_logo: tribhuvan-university
+    location: 'Pulchowk, Lalitpur, Nepal'
+    date_start: '2016-04-01'
+    date_end: '2016-08-01'
+    description: 
+      Conducted Basic Electronics Lab sessions for first year students for a
+      semester.
 
-[[experience]]
-  title = "Intern"
-  company = "E&T Nepal Pvt. Ltd."
-  company_url = "http://www.eandtnepal.com/"
-  location = "Lokanthali"
-  date_start = "2014-05-01"
-  date_end = "2014-12-01"
-  description = """Took on research project named High Speed Data Transfer to make the existing data transfer faster."""
+  - title: System Engineer
+    company: E&T Nepal Pvt. Ltd.
+    company_url: 'https://www.linkedin.com/company/e&t-nepal-pvt-ltd-/about/'
+    company_logo: org-ent
+    location: 'Lokanthali, Bhaktapur, Nepal'
+    date_start: '2015-11-01'
+    date_end: '2016-04-01'
+    description: 
+      Development of Calculation Solver for CFD simulation with CUDA on NVIDIA GPUs for simulation software "MUJO".
 
-+++
+  - title: Intern
+    company: E&T Nepal Pvt. Ltd.
+    company_url: 'https://www.linkedin.com/company/e&t-nepal-pvt-ltd-/about/'
+    company_logo: org-ent
+    location: 'Lokanthali, Bhaktapur, Nepal'
+    date_start: '2014-05-01'
+    date_end: '2014-12-01'
+    description: 
+      Took on research project named High Speed Data Transfer to make the
+      existing data transfer faster.
+
+
+design:
+  columns: '1'
+---
