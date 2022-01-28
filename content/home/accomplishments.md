@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards and Scholarships"
 subtitle = ""
 
 # Date format
@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "MICCAI 2021"
+  organization_url = "https://www.miccai2021.org/en/"
+  title = "MICCAI 2021 Satellite Event Participation Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-09-01"
+  date_end = ""
+  description = "MICCAI Society provided 50 Satellite Events Participation Grants which included a member registration fee for the MICCAI Satellite Events, in conjunction with a one-year MICCAI Society membership fee."
 
 [[item]]
   organization = "Pulchowk Campus, Institute of Engineering, Tribhuvan University"

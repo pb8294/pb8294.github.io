@@ -19,7 +19,7 @@
   weight = 30
   
 [[main]]
-  name = "Accomplishment"
+  name = "Awards"
   url = "#accomplishments"
   weight = 40
 

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Student in Machine Learning
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ education:
     institution: Rochester Institute of Technology
     year: 
   - course: BE in Electronics and Communications Engineering
-    institution: Pulchowk Campus, Intitute of Engineering, Nepal
+    institution: Pulchowk Campus, Institute of Engineering, Nepal
     year: 2015
 
 # Social/Academic Networking
@@ -45,7 +45,7 @@ social:
   icon_pack: fas
   link: 'mailto:pb8294@rit.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
-  icon_pack: fab
+  icon_pack: fab 
   link: https://twitter.com/p_bajra
 - icon: google-scholar
   icon_pack: ai
@@ -69,5 +69,8 @@ user_groups:
 - Visitors
 ---
 
-I am a second year PhD student in Computing and Information Sciences at Golisano College of Computing and Information Sciences, Rochester Institute of Technology. I am a Graduate Research Assistant under the supervision of <a href="https://pht180.rit.edu/cblwang/">Prof. Linwei Wang</a>. My research interest are in Bayesian active learning and its use for uncertainty quantification in multiscale multiphysics models.
+I am a third year PhD student in Computing and Information Sciences at Golisano College of Computing and Information Sciences, Rochester Institute of Technology. I am a Graduate Research Assistant under the supervision of [**Dr. Linwei Wang**](https://pht180.rit.edu/cblwang). 
+
+**Research Area**\
+My research is in Bayesian Active Learning and its use for Uncertainty Quantification in multiscale multiphysics models.
 
