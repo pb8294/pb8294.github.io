@@ -65,12 +65,12 @@ highlight_name: true
 
 I am a final year PhD student in Computing and Information Sciences at Golisano College of Computing and Information Sciences, Rochester Institute of Technology. I am a Graduate Research Assistant under the supervision of [**Dr. Linwei Wang**](https://www.rit.edu/directory/lxwast-linwei-wang) in [**Computational Biomedicine Lab**](https://www.rit.edu/cblwang/). 
 
-**Research Area**\
-My primary research focus is on Deep Active Learning and its application with Deep Learning on Medical Imaging.
+**RESEARCH AREA**\
+My primary research focus is on Deep Active Learning and its application in designing uncertainty-aware, efficient deep surrogate models for biomedical and scientific applications. 
 
-**Technical Skills**\
+**TECHNICAL SKILLS**\
 **Programming** -- Python, MATLAB, C++\
-**Machine Learning Tools** -- PyTorch, Scikit-learn,TensorFlow\
-**Tools and Libraries** -- MLFlow, WandB, OpenCV, Pandas, Numpy, Matplotlib, OpenCV, SLURM, Docker\
+**Machine Learning Tools** -- PyTorch, Scikit-learn, TensorFlow\
+**Tools and Libraries** -- MLFlow, WandB, Pandas, Numpy, Matplotlib, OpenCV, SLURM, Docker\
 **Miscellaneous** -- AWS, AWS Sagemaker (Basics), LaTeX, Git
 
