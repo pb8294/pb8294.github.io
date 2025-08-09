@@ -38,6 +38,9 @@ experience:
     location: 'Rochester, New York'
     date_start: '2018-08-01'
     date_end: '2019-05-01'
+    description: |-
+      - COS-IMGS-111 - Image Science Fundamentals
+      - COS-IMGS-180 - Intro to Computing and Control
 
   - title: Senior Developer
     company: Kazi Studios
@@ -86,5 +89,5 @@ experience:
 
 
 design:
-  columns: '1'
+  columns: '2'
 ---

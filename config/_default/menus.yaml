@@ -11,9 +11,4 @@ main:
   - name: Awards
     url: '#accomplishments'
     weight: 40
-  - name: Certification
-    url: '#certification'
-    weight: 40
-  - name: Blog
-    url: '#posts'
-    weight: 50
+  
