@@ -53,8 +53,7 @@ item:
     date_start: '2018-08-18'
     date_end: ''
     description:
-      Financial assistance for Ph.D. studies at Rochester Institute of
-      Technology since August 2018
+      Financial assistance for Ph.D. studies at Rochester Institute of Technology since August 2018
 
   - organization: "Ncell"
     organization_url: ''
@@ -64,7 +63,7 @@ item:
     date_start: '2016-03-13'
     date_end: ''
     description: >-
-      NRs. 100,000 (~$1000) was awarded to the top student of Electronics and Communications, Electrical, and Computer Engineering, Pulchowk Campus.
+      NRs. 100,000 ($1000) was awarded to the top student of **Electronics and Communications, Electrical, and Computer Engineering, Pulchowk Campus**.
 
   - organization: Ncell
     organization_url: >-
@@ -75,7 +74,7 @@ item:
     date_start: '2015-03-30'
     date_end: ''
     description: >-
-      NRs. 100,000 (~$1000) was awarded to the top student of Electronics and Communications, Electrical, and Computer Engineering, Pulchowk Campus.
+      NRs. 100,000 ($1000) was awarded to the top student of **Electronics and Communications, Electrical, and Computer Engineering, Pulchowk Campus**.
 
   - organization: 'Tribhuvan-University'
     organization_url: 'http://doece.pcampus.edu.np/'
@@ -86,8 +85,8 @@ item:
     date_end: '2015-12-01'
     description: >-
       Scholarship provided by **Department of Electronics and Communications
-      Engineering, Pulchowk Campus** for securing first position in semester exams (Years/Semesters I/I, I/II, II/II, III/I, III/II, IV/I)
+      Engineering, Pulchowk Campus** for securing first position in semester exams
 
 design:
-  columns: '1' 
+  columns: '2' 
 ---
