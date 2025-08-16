@@ -1,6 +1,7 @@
 ---
 title: 
-  Active learning based Cardiac Tissue Parameter Estimation for Personalized model exploiting predictive uncertainty
+  Meta-learning based Active Learning Approach for Computer-Assisted Pace-Mapping
+
 date: '2025-06-15'
 authors:
   - admin
