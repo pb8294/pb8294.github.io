@@ -29,7 +29,15 @@ experience:
     location: 'Rochester, New York'
     date_start: '2018-08-18'
     date_end: ''
-    description: ''
+    description: '- Developed **meta-learning based active neural surrogate model** for localization of source of Ventricular Tachycardia on heart, achieving over **70% improvement** over Bayesian Optimization.
+  
+    - Developed a **locally accurate neural surrogate** for inverse cardiac tissue parameters estimation responsible for irregular ECG signals, improving localization error by **71%** over passive baselines.
+    
+    - Developed **active learning-based surrogate model** for scientific simulations in an application of oxygen diffusion in retina as an cost-effective alternative.
+    
+    - Explored interdependence of active learning and deep learning architectures (RESNETs to LLMs like BERT, DistilBERT and RoBERTa). Architecture optimization (via Neural Architecture Search) found to be more important than data optimization.
+    
+    - Developed **novel gradient-based acquisition function** for faster and efficient phase mapping for scientific simulations in an application of a colloidal system, **reducing simulation time by 92%**'
 
   - title: Graduate Teaching Assistant
     company: Chester F. Carlson Center for Imaging Science, RIT
@@ -63,8 +71,7 @@ experience:
     date_start: '2016-04-01'
     date_end: '2016-08-01'
     description: 
-      Conducted Basic Electronics Lab sessions for first year students for a
-      semester.
+      In charge of conducting "Basic Electronics Lab" sessions for first year students.
 
   - title: System Engineer
     company: E&T Nepal Pvt. Ltd.
@@ -73,8 +80,9 @@ experience:
     location: 'Lokanthali, Bhaktapur, Nepal'
     date_start: '2015-11-01'
     date_end: '2016-04-01'
-    description: 
-      Development of Calculation Solver for CFD simulation with CUDA on NVIDIA GPUs for simulation software "MUJO".
+    description: |-
+      - Development of Calculation Solver for CFD simulation for automobile application 
+      - **Technology used:** CUDA Programming, C++.
 
   - title: Intern
     company: E&T Nepal Pvt. Ltd.
@@ -84,8 +92,7 @@ experience:
     date_start: '2014-05-01'
     date_end: '2014-12-01'
     description: 
-      Took on research project named High Speed Data Transfer to make the
-      existing data transfer faster.
+      Led research project named _High Speed Data Transfer_ to improve speed of existing data transfer.
 
 
 design:

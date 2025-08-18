@@ -1,4 +1,4 @@
----
+  ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
@@ -43,7 +43,7 @@ item:
     date_start: '2019-11-01'
     date_end: ''
     description: 
-      Prestigious Award awared for graduating top of the class (2015) in BE Electronics and Communications Engineering, Pulchowk Campus.
+      Awarded for graduating top of the class (2015) in BE Electronics and Communications Engineering, Pulchowk Campus.
 
   - organization: RIT
     organization_url: 'https://www.rit.edu/'
@@ -63,7 +63,7 @@ item:
     date_start: '2016-03-13'
     date_end: ''
     description: >-
-      NRs. 100,000 ($1000) was awarded to the top student of **Electronics and Communications, Electrical, and Computer Engineering, Pulchowk Campus**.
+      Awarded $1000 to the top student of **Electronics and Communications, Electrical, and Computer Engineering, Pulchowk Campus**.
 
   - organization: Ncell
     organization_url: >-
@@ -74,7 +74,7 @@ item:
     date_start: '2015-03-30'
     date_end: ''
     description: >-
-      NRs. 100,000 ($1000) was awarded to the top student of **Electronics and Communications, Electrical, and Computer Engineering, Pulchowk Campus**.
+      Awarded $1000 to the top student of **Electronics and Communications, Electrical, and Computer Engineering, Pulchowk Campus**.
 
   - organization: 'Tribhuvan-University'
     organization_url: 'http://doece.pcampus.edu.np/'
@@ -84,7 +84,7 @@ item:
     date_start: '2011-09-01'
     date_end: '2015-12-01'
     description: >-
-      Scholarship provided by **Department of Electronics and Communications
+      Scholarship awarded by **Department of Electronics and Communications
       Engineering, Pulchowk Campus** for securing first position in semester exams
 
 design:
